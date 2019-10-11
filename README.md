@@ -28,7 +28,8 @@ There is also a notebook available here to showcase all my work related to my th
 **Results**
 The main findings of the code can be found at the [post](https://medium.com/@ronyjoby/football-performance-vs-money-e8b9f3a5b9aa) available
 
-Licensing, Authors, Acknowledgements
+**Licensing, Authors, Acknowledgements**
+
 Credit goes to Udacity courses for some of code ideas, and to kaggle/AirBnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
 
 
